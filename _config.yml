@@ -52,8 +52,8 @@ tel:
 # Members information. Shown on About page.
 members:
   - name: Freddy Van Randwyck
-    position: President
-    text: Founder of the society,
+    position: President & Founder
+    text: Provides leadership for the Society. Ensures the Society adheres to all the YUSU regulations and is in contact with YUSU.
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -62,7 +62,7 @@ members:
         url: http://facebook.com/freddy.vanrandwyck
   - name: Will Wood
     position: Vice President / Secretary
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Takes care of the admin the Society's website. Arranges the meetings and organizes the venues.
     img: team02.jpg
     social:
       - title: envelope #use for email address
@@ -71,7 +71,7 @@ members:
         url: http://facebook.com/will6767
   - name: Hermione Elderton
     position: Welfare, Liberation and Media Management Officer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: In charge of the social media pages and events (Facebook & Twitter). Deals with equality/ liberation issues from international students. Maintains contact with exchange students and help integrate them into the society and events. Acts as a bridge between YUSU Door Safe and the society to provide safety and welfare for students at events.
     img: team03.jpg
     social:
       - title: envelope #use for email address
@@ -80,7 +80,7 @@ members:
         url: http://facebook.com/hermione.elderton
   - name: Hugo Tamassi
     position: Treasurer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: In charge of all the finance and laws for the society. Organizing any fundraising and sponsorship for the society.
     img: team04.jpg
     social:
       - title: envelope #use for email address
