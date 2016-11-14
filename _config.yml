@@ -62,7 +62,7 @@ members:
         url: http://facebook.com/freddy.vanrandwyck
   - name: Will Wood
     position: Vice President / Secretary
-    text: Takes care of the admin the Society's website. Arranges the meetings and organizes the venues.
+    text: Takes care of the admin and the Society's website. Arranges meetings for the committee and organizes the venues for events.
     img: team02.jpg
     social:
       - title: envelope #use for email address
@@ -71,7 +71,7 @@ members:
         url: http://facebook.com/will6767
   - name: Hermione Elderton
     position: Welfare, Liberation and Media Management Officer
-    text: In charge of the social media pages and events (Facebook & Twitter). Deals with equality/ liberation issues from international students. Maintains contact with exchange students and help integrate them into the society and events. Acts as a bridge between YUSU Door Safe and the society to provide safety and welfare for students at events.
+    text: In charge of the social media pages and events. Deals with equality/ liberation issues from international students. Maintains contact with exchange students and help integrate them into the society and events. Acts as a bridge between YUSU Door Safe and the society to provide safety and welfare for students at events.
     img: team03.jpg
     social:
       - title: envelope #use for email address
