@@ -59,7 +59,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: facebook
-        url: http://twitter.com/handle
+        url: http://facebook.com/freddy.vanrandwyck
   - name: Will Wood
     position: Vice President / Secretary
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -68,7 +68,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: facebook
-        url: http://twitter.com/handle
+        url: http://facebook.com/will6767
   - name: Hermione Elderton
     position: Welfare, Liberation and Media Management Officer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -77,7 +77,7 @@ members:
       - title: envelope #use for email address
         url: mailto:he618@york.ac.uk
       - title: facebook
-        url: http://twitter.com/handle
+        url: http://facebook.com/hermione.elderton
   - name: Hugo Tamassi
     position: Treasurer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -86,7 +86,7 @@ members:
       - title: envelope #use for email address
         url: mailto:ht851@york.ac.uk
       - title: facebook
-        url: http://twitter.com/handle
+        url: http://facebook.com/hugo.tomassi.9
 
 # Clients information. Shown on Home and About pages.
 clients:
