@@ -43,8 +43,8 @@ address:
     - Some Ave, 987,
     - 23890, New York,
     - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+email: eurosoc@yusu.ac.uk
+tel:
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -52,8 +52,8 @@ tel: +34 8493-4893
 # Members information. Shown on About page.
 members:
   - name: Freddy Van Randwyck
-    position: President & Founder
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: President
+    text: Founder of the society,
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -100,7 +100,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "EuroSoc was setup to help represent the minor European nations. We want to provide a platform to help integrate European culture into our life at York."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
