@@ -1,9 +1,9 @@
-<div id="eventswrap">
-    <div class="events-centered">
+<div id="portfoliowrap">
+    <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
-        <div class="recentitems events">
+        <div class="recentitems portfolio">
             {% for project in site.categories['project'] limit:include.limit %}
-                <div class="events-item graphic-design">
+                <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
                         <div class="he-view">
@@ -16,6 +16,6 @@
                     </div><!-- he wrap -->
                 </div><!-- end col-12 -->
             {% endfor %}
-        </div><!-- events -->
-    </div><!-- events container -->
-</div><!--/eventswrap -->
+        </div><!-- portfolio -->
+    </div><!-- portfolio container -->
+</div><!--/Portfoliowrap -->
